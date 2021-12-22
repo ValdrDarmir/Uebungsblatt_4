@@ -1,0 +1,35 @@
+Susanna Blanke, Niklas Donhauser, Leonard Hübner, Julius Windloff 
+Aufgabe 4.1:
+a)
+
+Gnome: 
+Alles soll möglichst mit dem Keyboard bedienbar sein
+Icons sollten möglichst in einfachen Formen gestaltet werden. 
+Man soll den Unicode für spezielle Zeichen benutzen. 
+
+Apple: 
+Menü Dock (zeigt oft verwendete Programme an) und Touch Bar (dient als Ersatz der Funktionstasten)
+Übersimplifizierte Art und Weise Dateien abzuspeichern und abzurufen (file handling).
+Autosave
+Autofill (data entry)
+Quick look (Vorschau von Dateien ohne sie öffnen zu müssen)
+Label
+Token fields
+
+Windows:
+Command Links: Buttons, mit denen man sofort verschiedene Funktionen ausführen lassen kann.
+Wizards
+On-Screen Keyboard, mit allen Funktionen eines physischen Keyboards
+
+
+
+b) 
+10 am häufigsten verwendeten Elemente
+https://github.com/ValdrDarmir/Uebungsblatt_4
+
+c)
+
+Durch das Einfügen einer Searchbar/ Suchleiste, können Benutzer auch ohne große Kenntnisse des Systems Funktionen oder Dateien einfach finden. Zusätzlich geht die Suche schnell und ohne viel Umstände.Ebenfalls werden oft Funktionen der gleichen Kategorie angezeigt, so wird zum Beispiel bei der Suche nach einem Auswahl Werkzeug neben einer Box Auswahl auch eine Lasso Auswahl angezeigt. Manchmal werden online Vorschläge angezeigt, wenn eine gesuchte Funktion oder Datei nicht gefunden wird oder vorhanden ist (z.B. System Suchleiste).Auch wenn man den Speicherort einer Datei vergessen hat, kann man so nach dieser Suchen und diese unkompliziert finden. 
+
+d)
+https://github.com/ValdrDarmir/Uebungsblatt_4
