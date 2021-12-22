@@ -30,9 +30,9 @@ https://github.com/ValdrDarmir/Uebungsblatt_4
 c)
 
 Durch das Einfügen einer Searchbar/ Suchleiste, können Benutzer auch ohne große Kenntnisse des Systems Funktionen oder Dateien einfach finden. Zusätzlich geht die Suche
-schnell und ohne viel Umstände.Ebenfalls werden oft Funktionen der gleichen Kategorie angezeigt, so wird zum Beispiel bei der Suche nach einem Auswahl Werkzeug neben
+schnell und ohne viel Umstände. Ebenfalls werden oft Funktionen der gleichen Kategorie angezeigt, so wird zum Beispiel bei der Suche nach einem Auswahl Werkzeug neben
 einer Box Auswahl auch eine Lasso Auswahl angezeigt. Manchmal werden online Vorschläge angezeigt, wenn eine gesuchte Funktion oder Datei nicht gefunden wird oder
-vorhanden ist (z.B. System Suchleiste).Auch wenn man den Speicherort einer Datei vergessen hat, kann man so nach dieser Suchen und diese unkompliziert finden. 
+vorhanden ist (z.B. System Suchleiste). Auch wenn man den Speicherort einer Datei vergessen hat, kann man so nach dieser Suchen und diese unkompliziert finden. 
 
 d)
 https://github.com/ValdrDarmir/Uebungsblatt_4
